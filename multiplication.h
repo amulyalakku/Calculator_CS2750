@@ -1,0 +1,1 @@
+float multiplication(float, float);
