@@ -57,7 +57,7 @@ void testDivision()
 {
     float firstNumber = 10;
     float secondNumber = 20;
-    float expectedOutput = 0;
+    float expectedOutput = 0.500000;
     float response = division(firstNumber, secondNumber);
     if (expectedOutput != response)
     {
